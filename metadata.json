@@ -1,0 +1,6 @@
+{
+  "name": "PG Master",
+  "description": "Enterprise PG & Hostel Management Ecosystem with Tenant, Admin, and Owner apps, 3D room/parking maps, multi-language support, and AI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
